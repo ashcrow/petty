@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include requirements.txt
+include test-requirements.txt
+graft conf
+graft doc
+graft example

@@ -1,0 +1,5 @@
+grpcio
+grpcio-tools
+PyYAML
+sphinx
+cloud_sptheme
